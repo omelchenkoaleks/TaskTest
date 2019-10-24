@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Activity Test</string>
+    <string name="start">Start</string>
+    <string name="info">Info</string>
+</resources>
